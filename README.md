@@ -1,4 +1,4 @@
-_programming is at its most beautiful when the quality of the final product pales in comparison to the care you put into crafting the code itself_
+_programming is at its most beautiful when the quality of the final product pales in comparison to the care put into crafting the code itself_
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HordLawk&theme=dracula&layout=compact&hide_border=true" alt="top-langs" class="center">
