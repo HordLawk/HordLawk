@@ -1,6 +1,9 @@
 _programming is at its most beautiful when the quality of the final product pales in comparison to the care put into crafting the code itself_
 
 <p align="center">
+    <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=HordLawk&theme=radical&hide_border=true&date_format=[Y-]n-j">
+</p>
+<p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HordLawk&theme=dracula&layout=compact&hide_border=true" alt="top-langs" class="center">
 </p>
 
