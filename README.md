@@ -1,5 +1,3 @@
-_programming is at its most beautiful when the quality of the final product pales in comparison to the care put into crafting the code itself_
-
 <p align="center">
     <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=HordLawk&theme=radical&hide_border=true&date_format=[Y-]n-j">
 </p>
