@@ -2,7 +2,7 @@
     <img alt="streak" src="https://github-readme-streak-stats.herokuapp.com?user=HordLawk&theme=radical&hide_border=true&date_format=[Y-]n-j">
 </p>
 <p align="center">
-    <img height="180em" src="https://ghstats.lawk.dev/api/top-langs/?username=HordLawk&theme=radical&layout=compact&hide_border=true" alt="top-langs" class="center">
+    <img height="180em" src="https://ghstats.lawk.dev/api/top-langs/?username=HordLawk&theme=radical&layout=compact&hide_border=true&stats_format=bytes" alt="top-langs" class="center">
 </p>
 
 <!--
